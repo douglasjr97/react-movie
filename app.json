@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rn-movie",
+    "slug": "rn-movie",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rn-movie"
+}
